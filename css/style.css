@@ -1,8 +1,15 @@
 
+body{
+    font-family:expo ;
+}
 img{
     cursor: pointer;
     
 
+}
+
+.bt{
+    background-color: rgba(95, 93, 93, 0.61);
 }
 .card:hover{
     transform: scale(1.1)  ;
